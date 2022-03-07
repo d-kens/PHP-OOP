@@ -1,4 +1,4 @@
-##Object Oriented Programming Using PPH
+#Object Oriented Programming Using PHP
    - PDO extension used
    - Create Product
    - Read Product
